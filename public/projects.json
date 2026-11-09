@@ -11,7 +11,7 @@
       "CSS",
       "Local Storage"
     ],
-    "imageUrl": "/images/task-manager.png",
+    "imageUrl": "/images/task-manager.jpg",
     "githubUrl": "https://github.com/yourusername/task-manager",
     "liveUrl": "https://task-manager-demo.netlify.app",
     "details": "A comprehensive task management application built with React. Features include task creation, editing, deletion, status tracking, and filtering. Data persists using browser local storage.",
@@ -35,7 +35,7 @@
       "Chart.js",
       "CSS Grid"
     ],
-    "imageUrl": "/images/weather-app.png",
+    "imageUrl": "/images/weather-app.jpg",
     "githubUrl": "https://github.com/yourusername/weather-dashboard",
     "liveUrl": "https://weather-dashboard-demo.netlify.app",
     "details": "A weather dashboard that fetches real-time weather data from OpenWeatherMap API and displays it with interactive charts and a clean, modern interface.",
@@ -59,7 +59,7 @@
       "CSS Animations",
       "Vite"
     ],
-    "imageUrl": "/images/portfolio.png",
+    "imageUrl": "/images/portfolio.jpg",
     "githubUrl": "https://github.com/yourusername/portfolio",
     "liveUrl": "https://yourportfolio.com",
     "details": "My personal portfolio website showcasing my projects, skills, and experience. Built with React Router for smooth navigation and CSS animations for engaging user experience.",
@@ -83,7 +83,7 @@
       "Stripe API",
       "Node.js"
     ],
-    "imageUrl": "/images/ecommerce.png",
+    "imageUrl": "/images/ecommerce.jpg",
     "githubUrl": "https://github.com/yourusername/ecommerce",
     "liveUrl": "https://ecommerce-demo.netlify.app",
     "details": "A full-featured e-commerce platform with product catalog, shopping cart, and checkout functionality. Uses Context API for state management and Stripe for payment processing.",
@@ -107,7 +107,7 @@
       "Firebase",
       "Tailwind CSS"
     ],
-    "imageUrl": "/images/blog.png",
+    "imageUrl": "/images/blog.jpg",
     "githubUrl": "https://github.com/yourusername/blog",
     "liveUrl": "https://blog-demo.netlify.app",
     "details": "A modern blogging platform with markdown support, allowing users to write and publish articles. Features a clean reading experience and admin dashboard.",
@@ -131,7 +131,7 @@
       "Express",
       "MongoDB"
     ],
-    "imageUrl": "/images/chat-app.png",
+    "imageUrl": "/images/chat-app.jpg",
     "githubUrl": "https://github.com/yourusername/chat-app",
     "liveUrl": "https://chat-demo.herokuapp.com",
     "details": "A real-time chat application supporting multiple chat rooms, private messaging, and file sharing. Built with Socket.io for WebSocket communication.",
